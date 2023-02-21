@@ -1,8 +1,8 @@
-<p align="center"><img alt="Lab" src="images/logo.png" width="512" /></p>
+<p align="center"><img alt="Lab" src="logo.png" width="512" /></p>
 
 ## mdn-html-learning
 
-HTML examples from https://developer.mozilla.org/en-US/.
+HTML examples and exercises from https://developer.mozilla.org/en-US/.
 
 ## License
 
